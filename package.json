@@ -1,0 +1,22 @@
+{
+  "name": "parcel_demo",
+  "version": "1.0.0",
+  "description": "parcelのDEMO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otsukayuhi/parcel_demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otsukayuhi/parcel_demo/issues"
+  },
+  "homepage": "https://github.com/otsukayuhi/parcel_demo#readme",
+  "devDependencies": {
+    "parcel": "^1.11.0"
+  }
+}
