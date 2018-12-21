@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/otsukayuhi/parcel_demo#readme",
   "devDependencies": {
-    "parcel": "^1.11.0"
+    "parcel": "^1.11.0",
+    "sass": "^1.15.2"
   }
 }

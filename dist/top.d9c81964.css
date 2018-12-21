@@ -1,0 +1,14 @@
+/*
+* top.css
+*
+*/
+/* --------------------------------
+   top
+-------------------------------- */
+.xxxx {
+  background: tomato;
+  font-size: responsive 15px 17px;
+  lower-font-range: 320px;
+  upper-font-range: 375px;
+  position: absolute 0 20px 10px 30px;
+}
